@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek2918&show_icons=true&locale=en" alt="vivek2918" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek2918&" alt="vivek2918" /></p>
+
+[![An image of @vivek2918's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivek2918)](https://holopin.io/@vivek2918)
